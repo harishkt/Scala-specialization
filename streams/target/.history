@@ -1,0 +1,18 @@
+compile
+test
+compile
+test
+submit harisht@udel.edu 
+[info] - optimal solution length for level 1
+[info] ScalaTest
+[info] Run completed in 342 milliseconds.
+[info] Total number of tests run: 4
+[info] Suites: completed 1, aborted 0
+[info] Tests: succeeded 4, failed 0, canceled 0, ignored 0, pending 0
+[info] All tests passed.
+[info] Passed: Total 4, Failed 0, Errors 0, Passed 4
+[success] Total time: 1 s, completed Sep 20, 2016 2:42:19 PM
+> submit harisht@udel.edu 
+compile
+test
+submit harisht@udel.edu b9sFlmN2tyTMzs3q

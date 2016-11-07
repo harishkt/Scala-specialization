@@ -1,0 +1,7 @@
+[0m[[0minfo[0m] [0m+ Heap.Checking for minimum element: OK, passed 100 tests.[0m
+[0m[[0minfo[0m] [0m+ Heap.Smallest of two elements: OK, passed 100 tests.[0m
+[0m[[0minfo[0m] [0m+ Heap.Minimum of two heaps should be same as the minimum of the melded heap: OK, passed 100 tests.[0m
+[0m[[0minfo[0m] [0m+ Heap.hint3: OK, passed 100 tests.[0m
+[0m[[0minfo[0m] [0m+ Heap.melding heaps and finding the minimum: OK, passed 100 tests.[0m
+[0m[[0minfo[0m] [0m+ Heap.Two heaps should be equal if recursively removing min elements result in same elements until empty: OK, passed 100 tests.[0m
+[0m[[0minfo[0m] [0m+ Heap.The minimal value of 2 heaps should be the minimal after displacing it from heap 1 to 2 and melding both: OK, passed 100 tests.[0m
